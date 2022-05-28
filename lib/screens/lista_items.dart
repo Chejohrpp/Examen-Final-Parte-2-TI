@@ -4,19 +4,19 @@ import 'package:google_fonts/google_fonts.dart';
 
 class Lista_items extends StatelessWidget {
   Items item1 = Items(
-      title: "Juego",
+      title: "Juegos",
       img: "");
 
   Items item2 =  Items(
-    title: "Pelicula",
+    title: "Hacking",
     img: "",
   );
   Items item3 =  Items(
-    title: "Tecnologia",
+    title: "Distros de linux",
     img: "",
   );
   Items item4 =  Items(
-    title: "Relajarme",
+    title: "Desarrollo web",
     img: "",
   );
 

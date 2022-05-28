@@ -13,8 +13,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Práctica Intermedia TI',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
-        brightness: Brightness.dark,
+        primarySwatch: Colors.amber,
+        brightness: Brightness.light,
       ),
       //home: const MyHomePage(title: 'Mi primer app'),
       home: const LoginScreen(),
